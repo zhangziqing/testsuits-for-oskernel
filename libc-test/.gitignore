@@ -2,7 +2,6 @@
 *.o
 *.so
 *.a
-*.exe
 config.mak
 REPORT
 *.obj
