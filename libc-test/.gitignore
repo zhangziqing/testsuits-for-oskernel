@@ -1,6 +1,5 @@
 *.err
 *.o
-*.so
 *.a
 config.mak
 REPORT
