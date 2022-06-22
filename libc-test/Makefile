@@ -1,4 +1,4 @@
-MUSL_LIB?=/opt/riscv64--musl--bleeding-edge-2020.08-1/riscv64-buildroot-linux-musl/sysroot/lib64/
+MUSL_LIB?=/mnt/g/FileGitRepo/temp/riscv64--musl--bleeding-edge-2020.08-1/riscv64-buildroot-linux-musl/sysroot/lib64/
 PREFIX?=riscv64-buildroot-linux-musl-
 CC=$(PREFIX)gcc
 OBJCOPY=$(PREFIX)objcopy
